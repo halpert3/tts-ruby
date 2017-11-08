@@ -10,4 +10,4 @@ end
 
 average = sum/scores.length
 
-puts "The average of the scores is #{average}."
+puts "The average of the scores is #{average}!"
